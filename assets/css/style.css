@@ -1109,3 +1109,8 @@ section {
     padding-right: 20px 15px;
   }
 }
+
+.custom_btn:hover {
+  background-color: #7b16f7;
+  color: black;
+}
